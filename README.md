@@ -20,7 +20,7 @@ It covers forking, cloning, syncing with the TL repository, working with `develo
 
 ##  Clone Your Fork Locally
 ```bash
-git clone https://github.com/YOUR_USERNAME/organic-shop-tl.git
+git clone <github fork link>
 cd organic-shop-tl
 ```
 
