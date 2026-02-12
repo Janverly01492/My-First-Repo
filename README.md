@@ -6,7 +6,7 @@
 ## Description / Overview
 This is a complete guide for contributing to the **Organic Shop** project using Git and GitHub.  
 Following this workflow ensures your changes are organized, your fork stays up-to-date, and pull requests are clean.  
-It covers forking, cloning, syncing with the TL repository, working with `develop` and feature branches, and best practices for commits and pushes.
+It covers forking, cloning, syncing with the TL repository, working with `develop`, and best practices for commits and pushes.
 
 ---
 
