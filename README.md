@@ -1,38 +1,30 @@
-# 📝 Armada Git Workflow Guide
 
-<p align="center">
-    <a href="https://github.com/YOUR_USERNAME/organic-shop-tl/actions">
-    </a>
-    <a href="https://github.com/YOUR_USERNAME/organic-shop-tl">
-</p>
-
----
-
-# **📝 Armada Git Workflow Guide**
-###### Made by
-&nbsp;&nbsp;**Janverly Mhay O. Bacani**
+# ** Armada Git Workflow Guide**
 
 ---
 
 ## Description / Overview
-This is a complete guide for contributing to the **Armada Organic Shop** project using Git and GitHub.  
+This is a complete guide for contributing to the **Organic Shop** project using Git and GitHub.  
 Following this workflow ensures your changes are organized, your fork stays up-to-date, and pull requests are clean.  
 It covers forking, cloning, syncing with the TL repository, working with `develop` and feature branches, and best practices for commits and pushes.
 
 ---
 
 ## Fork the Repository
-- Go to the TL repository:  
+- Go to the TL repository:
+- 
   [https://github.com/Erudite098/organic-shop-tl](https://github.com/Erudite098/organic-shop-tl)  
 - Click **Fork** → this creates a copy of the repository in your GitHub account.
 
 ---
 
 ##  Clone Your Fork Locally
-
+```bash
 git clone https://github.com/YOUR_USERNAME/organic-shop-tl.git
 cd organic-shop-tl
+```
 
+___
 ## Set Up the TL Repository as Upstream
 ```bash
 git remote add upstream https://github.com/Erudite098/organic-shop-tl.git
