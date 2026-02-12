@@ -1,5 +1,5 @@
 
-# ** Armada Git Workflow Guide**
+#  GitHub Workflow Guide
 
 ---
 
